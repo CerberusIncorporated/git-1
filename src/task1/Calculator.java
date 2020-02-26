@@ -11,7 +11,7 @@ public class Calculator {
 
         int firstNum,secondNum;
         String operator;
-
+//exception
         try {
 
         System.out.println("Введите первое число: ");
