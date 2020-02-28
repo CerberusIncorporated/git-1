@@ -1,6 +1,7 @@
 package task1;
 
 import java.util.HashSet;
+import java.util.Set;
 
 //Цель: создать HashSet, заполнить его, вывести на экран
 
@@ -9,7 +10,7 @@ public class SetPlants {
 
         //создание HashSet
 
-        HashSet<String> strings = new HashSet<>();
+        Set<String> strings = new HashSet<>();
 
         //заполнение
 
